@@ -12,7 +12,5 @@ In dit onderzoek is vooral literatuur kritisch bekeken. Maar waar nodig zijn ook
 1. Toegankelijke presentatie van de bovenkerk en reflectie op haar wetenschappelijke bestudering.
 2. Algemenere reflectie op bouwredenen, historische bestemmingen en functies van deze kerk, aangevuld door kennis opgedaan in vergelijkbare kerken/religieuze gebouwen. 
 3. Analyse van de waarde en betekenis van de kerk(en) voor Kampen.
- 
-+ eventueel: Reflectie op het huidige wetenschappelijk kader rond bestemming en herbestemming van religieus erfgoed.
 
 
