@@ -97,5 +97,33 @@ Nou dat ging massief mis, met een vergeten identiteit kaart. Maarja. Oké, door 
 
 Oké, dit ging een stuk beter. Ik ga richting het thema bestemmingen van de kerk. Het past geweldig in het thema, het gaat richting een economische/culturele/sociologische redenen achter het gebouw, ofwel de opdrachtgever. Het past ook geweldig binnen een de relevante discussie rondom herbestemming? Hoe gaan we met overbodig religieus erfgoed om? Kunnen hoe deze gebouwen vroegen gebruikt werden bijdragen aan de discussie hoe ze tegenwoordig gebruikt worden? I like it. Nu alleen nog afwachten wat Bosman ervan vind. Waarschijnlijk zal het wel weer eens overkill zijn. Maarja, de eerste 2000 woorden zijn ingedeeld als een kat in het bakje. Er zit hoop in. 
 
+## Dinsdag - KB - 6 uur
+
+Oke, ik was hier voor twee publicaties die uiteindelijk ook echt sleutelpublicaties bleken te zijn. Helaas was er één in het Duits, maar hij is waarschijnlijk onvermijdbaar. Dus ik zal me er maar eens door moeten ploegen. Het is ook nog eens een van de recentste publicaties op het onderwerp. Maar ik zal eerst even de andere publicaties lezen, dan is het sowieso gemakkelijker lezen. 
+
+Verder heb ik hier lekker gewinkeld in de overzichtswerken. Ik zie dat de kamperse datapunten uit het archief op veel plekken worden ingezet, voor verschillende vragen. Het geeft ook een interessante blik op hoe belangrijk de betreffende datapunten eigenlijk zijn voor de Nederlandse kerkbouw. Maar het zijn zeker niet de enige.
+
+## Dinsdag - Trein en thuis - 2 uur
+
+In de trein en thuis heb ik even doorzitten dubben. De ervaring van hoe ik deze werken heb gebruikt leert wel aanzienlijk veel. Als ik deze werken op deze manier gebruik, dan gebruiken andere onderzoekers het waarschijnlijk ook op deze manier. Mijn onderzoek gericht op hun, moet hier dus ergens waardevol voor zijn. Zou ik het raad willen plegen? Of komt het in mijn lijstje  “slecht afgeleide werken” terecht? Ik kwam tot de volgende conclusie:
+
+De belangrijkste componenten zijn:
+1. Bibliografie / Stand van Wetenschap
+- Lijst / Annotatie
+- Visualisatie daarvan (gek genoeg zie ik dat nooit, dus heb ik hem maar getekend.)
+2. Insteek / Vraag / Premisse
+- Datapunten
+- Verbinden daartussen
+3. Presentatie
+- Toegankelijkheid
+-> Taal
+-> Visualisatie
+- Doorzoekbaarheid
+- Beschikbaarheid
+
+Taalfouten en dergelijke interesseerden me veel minder. Ik heb er wel een of twee gezien, en zeker in ouder Nederlands wordt het bijzonderder. Maar zolang het zijn boodschap redelijk gemakkelijk overbrengt, dat wil zeggen het datapunt of de verbinding, dan is het goed. Dat is dan ook niet hetgeen waar ik mijn aandacht in het begin aan ga besteden. Eerst het ding maar goed uitwerken, dan komt dat wel. 
+
+Thuis heb ik alles nog even zitten uitwerken, mijn database van boeken en artikelen wordt keer op keer groter. Maar dat is te verwachten. Zo kan ik het in ieder geval blijven raadplegen. Maar het kost ook tijd om te ordenen. Maar in dit geval is het nog de moeite waard. 474 fotos… 1.5gb. Geen wonder dat git crashte.
+
 
 
