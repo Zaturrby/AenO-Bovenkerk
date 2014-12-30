@@ -15,11 +15,12 @@
 ## Artikelen
 
 ### Vermeulen, F. De St. Nicolaas- of Bovenkerk te Kampen: bijdrage tot de geschiedenis van de kerkelijke bouwkunst der Nederlandse Hanzesteden. Oudheidkundig Jaarboek, 3e serie, 4e jrg. (herft 1924). GAK: P00104/18.
+
 > Nog te raadplegen.
 
 ### Fehrmann, C. N. De bouwgeschiedenis van de Sint-Nicolaas- of Bovenkerk te Kampen naar de Archivalische gegevens. Bulletin van de Koninklijke Nederlandse Oudheidkundige Bond, jrg. 4, nr. 3 (herfst 1972). GAK: C02525.
 
-### Ter Kuile, E. H. De bouwgeschiedenis van de Sint-Nicolaas of Bovenkerk te Kampen naar de gegevens van de restauratie. Bulletin van de Koninklijke Nederlandse Oudheidkundige Bond, jrg. 4, nr. 3 (herfst 1972). GAK: C02525.
+### Kuile, E. H. ter. De bouwgeschiedenis van de Sint-Nicolaas of Bovenkerk te Kampen naar de gegevens van de restauratie. Bulletin van de Koninklijke Nederlandse Oudheidkundige Bond, jrg. 4, nr. 3 (herfst 1972). GAK: C02525.
 
 > Bulletin met uitvoerige informatie over de verbouwing van de kerken. Degelijke wetenschappelijke artikelen, erg bruikbaar. Nog steeds niet helemaal gelezen.
 
@@ -31,13 +32,16 @@
 
 >  Diepgaand rapport met betrekking tot het houtwerk in de toren van de bovenkerk. Wellicht interessant, maar weer aardig bouwtechnisch. Laat ook weer steenhouwers tekenen zien. 
 
-### …. Kamper Almanak, 1961/62. GAK: P00001/29 A3
+### …. Kamper Almanak, 1961/62. GAK: P00001/29 A3.
+
 > Nog te raadplegen. (Beschouwing over de bouwgeschiedenis van de Bovenkerk.)
 
-### …. Kamper Almanak, 1962/63. GAK: P00001/30 A3
+### …. Kamper Almanak, 1962/63. GAK: P00001/30 A3.
+
 > Nog te raadplegen. (Vervolg op het verslag van het archeologisch onderzoek uitgevoerd n.a.v. de restauratie van de Bovenkerk, verschenen in KA 1961/62.)
 
-### Jongh Jr. E.D. De Boventoren. Kamper Almanak, 1932. GAK: P00001/5 A3
+### Jongh Jr. E.D. De Boventoren. Kamper Almanak, 1932. GAK: P00001/5 A3.
+
 > Nog te raadplegen. (Beschouwing over de bouwgeschiedenis van de toren van de Bovenkerk.)
 
 
@@ -50,19 +54,24 @@
 
 ## Artikelen
 
-### Jongh JR, E.D.J De. De bouwmeesters van de Bovenkerk. Bouwkundig Weekblad jrg. 8, p.p. 61-63.
+### Jongh Jr, E.D.J De. De bouwmeesters van de Bovenkerk. Bouwkundig Weekblad jrg. 8, p.p. 61-63.
+
 > Korte opmerkingen rondom de bovenkerk. Hedendaags weinig waarde.
 
 ### Kamper Almanak, 1930. GAK: P00001/3 A3.
+
 > Nog te raadplegen. (Bouwhistorie van de portalen van de bovenkerk.)
 
 ### Kamper Almanak, 1934. GAK: P00001/7 A3
+
 > Nog te raadplegen. (Resultaat van de restauratie van de portalen.)
 
 ### Kamper Almanak, 1940/41. GAK: P00001/13 A3
+
 > Nog te raadplegen. (Beschrijving van het koperen sacramentshuis dat in 1498 in de Bovenkerk werd geplaatst en in 1572 werd omgesmolten.)
 
 ### Kamper Almanak, ????. ????.
+
 > Er is een almanak artikel over de verhouding tussen het stadsbestuur en het kerkelijk bestuur. Dit moet me ik eens even op de kop tikken. 
 
 
@@ -103,6 +112,7 @@
 
 *Wellicht in deze categorie - Nog te raadplegen*
 ### Schelhaas, Dekkers, H. Tigchellaar, G. Historische kerken in Overijssel. Waanders, 1974. GAK: P00109/8 A5.
+
 > Nog te raadplegen.
 
 
@@ -125,10 +135,12 @@
 
 *Wellicht in deze categorie - Nog te raadplegen*
 ###  …. Een restauratie die tien jaar duurt : aan een getuige van een groot verleden. De Mars, 1958. GAK: P00110/6.
+
 > Nog te raadplegen. (Verplichtingen Stadsbestuur ivm. Bovenkerk)
 
 *Wellicht in deze categorie - Nog te raadplegen*
 ### Berghuis, W.P. In Kampen gooide Bovenkerk-bodem enthousiaste veronderstellingen omver. De Mars, 1961. GAK: P00110/9.
+
 > Nog te raadplegen. (Bodemonderzoek Bovenkerk 1961)
 
 
