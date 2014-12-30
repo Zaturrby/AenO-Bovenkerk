@@ -134,6 +134,8 @@ Thuis heb ik alles nog even zitten uitwerken, mijn database van boeken en artike
 **82 uur**
 -> Nog 68 over. Dat betekent dat ik zo ondertussen echt over moet gaan tot een definitief voorstel schrijven en het indienen.  Daarna moet ik het als de mallemoer het gaan omzetten in een eerste versie. Ik heb nog 6 dagen. 3 Zal ik echter moeten besteden aan programmeren. Dat betekent dat ik op zijn best nog 30 uur beschikbaar heb, hoogstwaarschijnlijk minder. Ik moet weer keuzes maken, helaas. 31 en 1 worden besteed aan programmeren, dat project moet nu eens afgelopen zijn. Daarna ga ik 6-firstdraft hoogstwaarschijnlijk missen. Maar ik ben nu in staat om in ieder geval een doel te formuleren. Hopelijk gaat het programmeren sneller dan gepland. (vergeet dat maar. )
 
+
+**!! Bij uitloop wint programmeren van onderzoek !!**
 31 - Onderzoek - Formulering voorstel
 1 - Programmeren 
 2 - Programmeren
@@ -142,7 +144,7 @@ Thuis heb ik alles nog even zitten uitwerken, mijn database van boeken en artike
 5 - Programmeren
 6 - Programmeren / Onderzoek
 7 - Onderzoek - Draft
-8 - Onderzoek - Draft
+8 - Onderzoek - Draft - Werkgroep
 
 
 
