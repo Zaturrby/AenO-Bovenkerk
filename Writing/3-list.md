@@ -108,7 +108,9 @@
 
 > Enkele interessante opmerkingen met betrekking tot de verkiezing van de kerkmeesters. 2 Tegelijkertijd. Kerkelijke en Wereldlijk verweven, verkozen door stadsbestuur. Ook sloot het stadsbestuur het contract met Rutger. Wisselende steenhouwers. Interessante opmerkingen rondom de torens ook. Veel schade en reparaties. Maar dat is het. 
 
-## Niet Wetenschappelijk
+### Lenferink H.J.J. (red.). Geschiedenis van Kampen, deel I. Kampen, 1992.
+
+> Moet nog geannoteerd op individuele artikelen. Afhankelijk van gebruikswaarde. Metname een artikel aangaande de kerkelijke verstandhoudingen met de stad is interessant. 
 
 *Wellicht in deze categorie - Nog te raadplegen*
 ### Schelhaas, Dekkers, H. Tigchellaar, G. Historische kerken in Overijssel. Waanders, 1974. GAK: P00109/8 A5.
