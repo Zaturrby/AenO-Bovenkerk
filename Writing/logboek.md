@@ -2,7 +2,11 @@
 
 Dit logboek heeft als doelstelling duidelijk zicht te krijgen op de werkzaamheden die verricht zijn.
 
-## Zondag 14 December - Verkenning - 2/3 uur
+## Voorafgaand - Orientatie - 20 uur
+
+De meest snelle oriëntatie op onderwerpen die je kan bedenken. Wat sprint je al eerste naar binnen. Maar wel iets meer nagedacht over wat digitaal erbij kon betekenen. Dat uitzoeken heeft me wel een goede 20 uur gekost. Praten met een DH-docent, trachten SPARQL te leren Wiki-apis, db-pedia, etc. Veel werk. Maar wel interessant. Verder was ik met de presentatie beziggeweest. Even snel een presentatie tool uitgezocht en gedeployed naar GH-pages. Baalde als een stekker toen internet explorer hem niet full screen lade, maarja. 
+
+## Zondag 14 December - Verkenning - 3 uur
 
 Eerste serieuze verkenning van het onderzoek. Na een korte verkenning van het online materiaal en de UvA bibliotheek bleek dat dat hoogstwaarschijnlijk een dood spoor zou zijn. Er waren zeer beperkt teksten. Maar er schoot me in het hoofd dat Kampen een Theologische Universiteit en een kunstacademie heeft gehad. De bollebozen van die twee samen hebben vast niet kunnen weerstaan om het een en ander te schrijven over de bovenkerk.
 
@@ -41,6 +45,8 @@ Stad en Kerk. Bovenkerk Kampen.
 ## Woensdag 23 December - Amsterdam - 6 uur
 
 Vandaag heb ik een begin gemaakt aan het schrijven. Dit kwam vooral doordat ik gekeken heb waar het onderzoek aan moest voldoen. Het leek allemaal al aardig vast te liggen. Ik heb alles ook even wat netter uitgedacht. Wat wil ik doen met mijn onderzoek? Ook heb ik een artikel structuur uitgedacht. Maar ik denk dat ik er nog het een en ander aan moet sleutelen. Ik denk dat ik teveel wil en ik denk dat mijn bronnen niet toestaan dat ik ver terug ga in de tijd. Ik vermoed dat ik de situatie rondom de laatste bouwfase het beste kan beschrijven. Maar er is een beginnetje nu!
+
+**55 uur**
 
 ## Vrijdag 25 December - Trein en Starbucks -  3 uur
 
@@ -85,7 +91,7 @@ Ik denk dat mijn eerste aanpak moet zijn nog het een en ander lezen, voordat ik 
 
 -> Misschien oude kaarten van de regio opduikelen, kunnen ook waardevol als bron zijn om te zien hoe de regio eruit zag. 
 
-## Zaterdagmiddag - HEMA Amsterdam - 1.5 uur
+## Zaterdagmiddag - HEMA Amsterdam - 2 uur
 
 Nog even wat gelezen over het stadsbestuur van Kampen, maar afgezien van corruptie en nepotisme viel het eigenlijk tegen qua toepasbaarheid voor mijn onderwerp. Patronaat werd eigenlijk niet besproken. Wel erg interessant om te zien hoe reglementen werden opgesteld en vervangen, totdat er een landelijke verordening voor stadsbestuur kwam.
 
@@ -123,7 +129,9 @@ De belangrijkste componenten zijn:
 
 Taalfouten en dergelijke interesseerden me veel minder. Ik heb er wel een of twee gezien, en zeker in ouder Nederlands wordt het bijzonderder. Maar zolang het zijn boodschap redelijk gemakkelijk overbrengt, dat wil zeggen het datapunt of de verbinding, dan is het goed. Dat is dan ook niet hetgeen waar ik mijn aandacht in het begin aan ga besteden. Eerst het ding maar goed uitwerken, dan komt dat wel. 
 
-Thuis heb ik alles nog even zitten uitwerken, mijn database van boeken en artikelen wordt keer op keer groter. Maar dat is te verwachten. Zo kan ik het in ieder geval blijven raadplegen. Maar het kost ook tijd om te ordenen. Maar in dit geval is het nog de moeite waard. 474 fotos… 1.5gb. Geen wonder dat git crashte.
+Thuis heb ik alles nog even zitten uitwerken, mijn database van boeken en artikelen wordt keer op keer groter. Maar dat is te verwachten. Zo kan ik het in ieder geval blijven raadplegen. Maar het kost ook tijd om te ordenen. Maar in dit geval is het nog de moeite waard. 474 fotos… 1.5gb. Geen wonder dat git crashte. 2.6 gig in totaal aan materialen. Volgens mij kom ik zo zoetjes aan wel aan de 700. 
 
+**82 uur**
+-> Nog 68 over. Dat betekent dat ik zo ondertussen echt over moet gaan tot een definitief voorstel schrijven en het indienen.  Daarna moet ik het als de mallemoer het gaan omzetten in een eerste versie. Ik heb nog 6 dagen. 3 Zal ik echter moeten besteden aan programmeren. Dat betekent dat ik op zijn best nog 30 uur beschikbaar heb, hoogstwaarschijnlijk minder. 
 
 

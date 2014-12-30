@@ -2,4 +2,4 @@
 
 ## Architect en Opdrachtgever 
 
-This project is the working directory for a history research article for the University of Amsterdam.
+This repository is the working directory for an art historic research article for the University of Amsterdam.

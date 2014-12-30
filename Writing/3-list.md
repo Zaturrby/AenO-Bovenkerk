@@ -4,7 +4,7 @@
 
 ### Helten, L. Kathedralen für Bürger : die St. Nikolauskirche in Kampen und der Wandel architektonischer Leitbilder städtischer Repräsentation im 14. Jahrhundert. Architektur & Natura Pers, 1994. KB: 5062782 DEPOTEXEMPLAAR. GAK: C02262;  
 
-> Vrijwel zeker dé kernpublicatie.. (potverjandriedubbeltjes, hij moest nou weer Duits zijn he… “om de connectie met de Duitse architectuur met te versterken” ofzo. Heb ik als Nederlandssprekende echter niet zoveel aan, nu tenminste. ) -> Misschien echter wel interessant om te kijken of hij in het Duitse taalgebied in nieuwe publicaties geciteerd is, en in welke verbanden!
+> Vrijwel zeker dé kernpublicatie.. (potverjandriedubbeltjes, hij moest nou weer Duits zijn he… “om de connectie met de Duitse architectuur met te versterken” ofzo. Heb ik als Nederlandssprekende echter niet zoveel aan, nu tenminste. Ik zie Bosman en … al gniffelen met de verdeling. “oh ja die! Ja die! Die heeft een kernpublicatie in het Duits! *evil*” )  -> Misschien echter wel interessant om te kijken of hij in het Duitse taalgebied in nieuwe publicaties geciteerd is, en in welke verbanden!
 
 > Ik moet de impact van deze publicatie nog even inschatten. Jammer genoeg de nieuwe inzichten niet apart geannoteerd. Kortom ik ga Kuile en Fehrmann nog een keer lezen overgeschreven door een derde. Maar alles is wel lekker gebundeld en geïnterpreteerd. Ik zie ook dat hij ook lekker aan het aanvullen is geweest. Hij heeft informatie van veel andere studies ook verwerkt. Opvallend was degene over financiering, die had ik ook in mijn vingers. Misschien kan ik dat boek skippen door deze. 
 
