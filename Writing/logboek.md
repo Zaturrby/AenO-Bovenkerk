@@ -132,6 +132,17 @@ Taalfouten en dergelijke interesseerden me veel minder. Ik heb er wel een of twe
 Thuis heb ik alles nog even zitten uitwerken, mijn database van boeken en artikelen wordt keer op keer groter. Maar dat is te verwachten. Zo kan ik het in ieder geval blijven raadplegen. Maar het kost ook tijd om te ordenen. Maar in dit geval is het nog de moeite waard. 474 fotos… 1.5gb. Geen wonder dat git crashte. 2.6 gig in totaal aan materialen. Volgens mij kom ik zo zoetjes aan wel aan de 700. 
 
 **82 uur**
--> Nog 68 over. Dat betekent dat ik zo ondertussen echt over moet gaan tot een definitief voorstel schrijven en het indienen.  Daarna moet ik het als de mallemoer het gaan omzetten in een eerste versie. Ik heb nog 6 dagen. 3 Zal ik echter moeten besteden aan programmeren. Dat betekent dat ik op zijn best nog 30 uur beschikbaar heb, hoogstwaarschijnlijk minder. Ik moet weer keuzes maken, helaas.
+-> Nog 68 over. Dat betekent dat ik zo ondertussen echt over moet gaan tot een definitief voorstel schrijven en het indienen.  Daarna moet ik het als de mallemoer het gaan omzetten in een eerste versie. Ik heb nog 6 dagen. 3 Zal ik echter moeten besteden aan programmeren. Dat betekent dat ik op zijn best nog 30 uur beschikbaar heb, hoogstwaarschijnlijk minder. Ik moet weer keuzes maken, helaas. 31 en 1 worden besteed aan programmeren, dat project moet nu eens afgelopen zijn. Daarna ga ik 6-firstdraft hoogstwaarschijnlijk missen. Maar ik ben nu in staat om in ieder geval een doel te formuleren. Hopelijk gaat het programmeren sneller dan gepland. (vergeet dat maar. )
+
+31 - Onderzoek - Formulering voorstel
+1 - Programmeren 
+2 - Programmeren
+3 - Onderzoek - Lezen van Meischke en Helten
+4 - Onderzoek - Draft
+5 - Programmeren
+6 - Programmeren / Onderzoek
+7 - Onderzoek - Draft
+8 - Onderzoek - Draft
+
 
 
