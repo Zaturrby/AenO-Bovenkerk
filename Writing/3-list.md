@@ -1,12 +1,16 @@
+# Reflectie op Literatuurlijst
+
+Deze literatuurlijst is nog sterk gecentreerd rondom de bovenkerk zelf. Hoewel er een publicatie of twee inzit rondom de stad Kampen ontbreken vooral nog inzichtelijke publicaties rondom kerkgebruik in het algemeen. Dat ontbreek ook in mijn begrip ervan. Ik ben niet bekend met Katholieke erediensten en al die shizzle. Het kan goed bruikbaar zijn om dat in te zien en ook of dergelijke publicaties al terug linken naar de Kamperse archieven, want dat zou goed kunnen. 
+
 # Kernpublicaties
 
 ## Boeken
 
 ### Helten, L. Kathedralen für Bürger : die St. Nikolauskirche in Kampen und der Wandel architektonischer Leitbilder städtischer Repräsentation im 14. Jahrhundert. Architektur & Natura Pers, 1994. KB: 5062782 DEPOTEXEMPLAAR. GAK: C02262;  
 
-> Vrijwel zeker dé kernpublicatie.. (potverjandriedubbeltjes, hij moest nou weer Duits zijn he… “om de connectie met de Duitse architectuur met te versterken” ofzo. Heb ik als Nederlandssprekende echter niet zoveel aan, nu tenminste. Ik zie Bosman en … al gniffelen met de verdeling. “oh ja die! Ja die! Die heeft een kernpublicatie in het Duits! *evil*” )  -> Misschien echter wel interessant om te kijken of hij in het Duitse taalgebied in nieuwe publicaties geciteerd is, en in welke verbanden!
+> Vrijwel zeker dé kernpublicatie.. (potverjandriedubbeltjes, hij moest nou weer Duits zijn he… “om de connectie met de Duitse architectuur met te versterken” ofzo. Heb ik als Nederlandssprekende echter niet zoveel aan, nu tenminste. Ik zie Bosman en … al gniffelen met de verdeling. “Oh ja die! Ja die! Die heeft een sleutelpublicatie in het Duits! *evil*” )  -> Misschien echter wel interessant om te kijken of hij in het Duitse taalgebied in nieuwe publicaties geciteerd is, en in welke verbanden!
 
-> Ik moet de impact van deze publicatie nog even inschatten. Jammer staan genoeg de nieuwe inzichten niet apart geannoteerd. Kortom ik ga Kuile en Fehrmann nog een keer lezen overgeschreven door een derde. Maar alles is wel lekker gebundeld en geïnterpreteerd. Ik zie ook dat hij ook lekker aan het aanvullen is geweest. Hij heeft informatie van veel andere studies ook verwerkt. Opvallend was degene over financiering, die had ik ook in mijn vingers. Misschien kan ik dat boek skippen door deze. 
+> Ik moet de impact van deze publicatie nog even inschatten. Jammer staan genoeg de nieuwe inzichten niet apart geannoteerd. Kortom ik ga ter Kuile en Fehrmann nog een keer lezen overgeschreven door een derde. Maar alles is wel lekker gebundeld en geïnterpreteerd. Ik zie ook dat hij ook lekker aan het aanvullen is geweest. Hij heeft informatie van veel andere studies ook verwerkt. Opvallend was degene over financiering, die had ik ook in mijn vingers. Misschien kan ik dat boek skippen door deze. 
 
 ### Meischke, R. De gotische bouwtraditie : studies over opdrachtgevers en bouwmeesters in de Nederlanden. …, … . KHI: 128: BOK.SOC.EC. (Meis). Rijksmuseum: 540G11. KB: NL 49 B 2001. GAK: B02882.
 
@@ -74,6 +78,11 @@
 
 > Er is een almanak artikel over de verhouding tussen het stadsbestuur en het kerkelijk bestuur. Dit moet me ik eens even op de kop tikken. 
 
+*Wellicht in deze categorie - Nog te raadplegen*
+### Nanninga Uitterdijk, … . Onbekende publicatie. …, 1880ish.
+
+> Nog te raadplegen
+
 
 
 ——————————————————————————————————————————————
@@ -117,15 +126,13 @@
 
 > Nog te raadplegen.
 
-### Nanninga Uitterdijk, … . Onbekende publicatie. …, 1880ish.
 
-> Nog te raadplegen
 
 ——————————————————————————————————————————————
 
 
 
-# Kwalitatieve afgeleide publicaties
+# Niet wetenschappelijke afgeleide publicaties
 
 ## Boeken
 
@@ -134,6 +141,10 @@
 ### Offringa, P. B. Bovenkerk, Kampen. Borrias Kampen, 1972. GAK: B00131.
 
 > Twee boeken met uitgebreide beschrijving van de restauratie van de bovenkerk. Helaas niet geannoteerd, moest waarschijnlijk toegankelijk blijven. 
+
+### …. Tot Tymmeringe van Zanter Niclays. Stichting behoud Bovenkerk, ….
+
+> Klein boekje over de bovenkerk met enkele geraadpleegde bronnen. Niet geschikt voor onderzoek. 
 
 ## Artikelen 
 
@@ -146,22 +157,6 @@
 ### Berghuis, W.P. In Kampen gooide Bovenkerk-bodem enthousiaste veronderstellingen omver. De Mars, 1961. GAK: P00110/9.
 
 > Nog te raadplegen. (Bodemonderzoek Bovenkerk 1961)
-
-
-
-——————————————————————————————————————————————
-
-
-
-#  Afgeleide publicaties
-
-## Boeken
-
-### …. Tot Tymmeringe van Zanter Niclays. Stichting behoud Bovenkerk, ….
-
-> Klein boekje over de bovenkerk met enkele geraadpleegde bronnen. Niet geschikt voor onderzoek. 
-
-## Artikelen
 
 ### Keijser, Gerda. Bouwgeschiedenis van enkele kerken in en in omgeving van Kampen. Kampen, 1978. Werkstuk. GAK: C02512.
 
