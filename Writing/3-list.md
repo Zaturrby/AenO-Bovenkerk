@@ -151,12 +151,12 @@ Deze literatuurlijst is nog sterk gecentreerd rondom de bovenkerk zelf. Hoewel e
 *Wellicht in deze categorie - Nog te raadplegen*
 ###  …. Een restauratie die tien jaar duurt : aan een getuige van een groot verleden. De Mars, 1958. GAK: P00110/6.
 
-> Nog te raadplegen. (Verplichtingen Stadsbestuur ivm. Bovenkerk)
+> (Verplichtingen Stadsbestuur ivm. Bovenkerk)
 
 *Wellicht in deze categorie - Nog te raadplegen*
 ### Berghuis, W.P. In Kampen gooide Bovenkerk-bodem enthousiaste veronderstellingen omver. De Mars, 1961. GAK: P00110/9.
 
-> Nog te raadplegen. (Bodemonderzoek Bovenkerk 1961)
+> (Bodemonderzoek Bovenkerk 1961)
 
 ### Keijser, Gerda. Bouwgeschiedenis van enkele kerken in en in omgeving van Kampen. Kampen, 1978. Werkstuk. GAK: C02512.
 
@@ -195,7 +195,5 @@ Deze literatuurlijst is nog sterk gecentreerd rondom de bovenkerk zelf. Hoewel e
 
 *Wellicht in deze categorie - Nog te raadplegen*
 ### Helten, L. In der meyster Vorme: de werkovereenkomst tussen het stadsbestuur van Kampen en bouwmeester Rutger van Keulen uit 1369. …, 1991. C02129.
-
-> Nog te raadplegen.
 
 
