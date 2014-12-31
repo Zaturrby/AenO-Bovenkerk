@@ -6,7 +6,7 @@
 
 > Vrijwel zeker dé kernpublicatie.. (potverjandriedubbeltjes, hij moest nou weer Duits zijn he… “om de connectie met de Duitse architectuur met te versterken” ofzo. Heb ik als Nederlandssprekende echter niet zoveel aan, nu tenminste. Ik zie Bosman en … al gniffelen met de verdeling. “oh ja die! Ja die! Die heeft een kernpublicatie in het Duits! *evil*” )  -> Misschien echter wel interessant om te kijken of hij in het Duitse taalgebied in nieuwe publicaties geciteerd is, en in welke verbanden!
 
-> Ik moet de impact van deze publicatie nog even inschatten. Jammer genoeg de nieuwe inzichten niet apart geannoteerd. Kortom ik ga Kuile en Fehrmann nog een keer lezen overgeschreven door een derde. Maar alles is wel lekker gebundeld en geïnterpreteerd. Ik zie ook dat hij ook lekker aan het aanvullen is geweest. Hij heeft informatie van veel andere studies ook verwerkt. Opvallend was degene over financiering, die had ik ook in mijn vingers. Misschien kan ik dat boek skippen door deze. 
+> Ik moet de impact van deze publicatie nog even inschatten. Jammer staan genoeg de nieuwe inzichten niet apart geannoteerd. Kortom ik ga Kuile en Fehrmann nog een keer lezen overgeschreven door een derde. Maar alles is wel lekker gebundeld en geïnterpreteerd. Ik zie ook dat hij ook lekker aan het aanvullen is geweest. Hij heeft informatie van veel andere studies ook verwerkt. Opvallend was degene over financiering, die had ik ook in mijn vingers. Misschien kan ik dat boek skippen door deze. 
 
 ### Meischke, R. De gotische bouwtraditie : studies over opdrachtgevers en bouwmeesters in de Nederlanden. …, … . KHI: 128: BOK.SOC.EC. (Meis). Rijksmuseum: 540G11. KB: NL 49 B 2001. GAK: B02882.
 
@@ -117,13 +117,15 @@
 
 > Nog te raadplegen.
 
+### Nanninga Uitterdijk, … . Onbekende publicatie. …, 1880ish.
 
+> Nog te raadplegen
 
 ——————————————————————————————————————————————
 
 
 
-# Qualitatieve afgeleide publicaties
+# Kwalitatieve afgeleide publicaties
 
 ## Boeken
 
@@ -196,7 +198,8 @@
 
 ## Middeleeuws
 
-### Helten, L. In der meyster Vorme: de werkovereenkomst tussen het stadsbestuur van Kampen en bouwmeester Rutger van Keulen uit 1369. 1991, …. C02129.
+*Wellicht in deze categorie - Nog te raadplegen*
+### Helten, L. In der meyster Vorme: de werkovereenkomst tussen het stadsbestuur van Kampen en bouwmeester Rutger van Keulen uit 1369. …, 1991. C02129.
 
 > Nog te raadplegen.
 
