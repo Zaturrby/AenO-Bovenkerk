@@ -137,14 +137,20 @@ Thuis heb ik alles nog even zitten uitwerken, mijn database van boeken en artike
 
 **!! Bij uitloop wint programmeren van onderzoek !!**
 31 - Onderzoek - Formulering voorstel
-1 - Programmeren 
-2 - Programmeren
-3 - Onderzoek - Lezen van Meischke en Helten
-4 - Onderzoek - Draft
+1 - Programmeren **Failed**
+2 - Programmeren **Failed**
+3 - Onderzoek - Lezen van Meischke en Helten **Failed**
+4 - Programmeren
 5 - Programmeren
 6 - Programmeren / Onderzoek
 7 - Onderzoek - Draft
 8 - Onderzoek - Draft - Werkgroep
+
+## Woendag - 31 december - OBA - 4 uur
+
+Op deze dag heb ik intensief een voorstel zitten schrijven. Het is aardig gelukt al moet ik het zelf zeggen. Maar nog steeds ben ik wat ambitieus in hoe ik het wil behandelen. Ik zit buiten het traditionele architectuale discours. Dat is een gevaarlijke plek om te zijn, maar wel een interessant. In plaats van me af te vragen hoe ik kan toevoegen kan ik mezelf wellicht beter afvragen hoe ik een kwalitatief voldoende - niet toevoegend - werk kan schrijven. Anyways, dat is voer voor later, nu heb ik eigenlijk meer kritiek nodig na een beetje afwerking van het voorstel. 
+
+
 
 
 
