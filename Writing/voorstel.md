@@ -96,7 +96,7 @@ Landelijk is er ook een discussie over herbestemming van oude kerkgebouwen. Er i
 
 - Offringa, R. Restauratie van de St. Nicolaas- of Bovenkerk te Kampen. Document, maart 1966.
 
-- …. Werkgroep Bouw en Restauratiefonds Bovenkerk. Actiekrant Bovenkerk Kampen. Kampen, 1972. Krant. 
+- Werkgroep Bouw en Restauratiefonds Bovenkerk. Actiekrant Bovenkerk Kampen. Kampen, 1972. Krant. 
 
 ### Overzichtspublicaties
 
