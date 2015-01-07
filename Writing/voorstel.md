@@ -2,7 +2,7 @@
 
 ## Inleiding
 
-Al vroeg in de middeleeuwen hadden de IJsselsteden grote zelfstandigheid verworven van de landsheer. Kampen, eens een zeer succesvolle handelsstad met buitenlandse betrekkingen, gebruikte architectuur om haar macht te laten zien. De Bovenkerk  vloeit onder andere hier uit voort. 
+Al vroeg in de middeleeuwen hadden de IJsselsteden grote zelfstandigheid verworven van de landsheer. Kampen, eens een zeer succesvolle handelsstad met buitenlandse betrekkingen, gebruikte architectuur om haar macht te laten zien. De Bovenkerk  vloeit hier, onder andere, uit voort. 
 
 ## Reflectie op methode en bronnen
 
