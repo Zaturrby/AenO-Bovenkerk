@@ -41,7 +41,7 @@ Landelijk is er ook een discussie over herbestemming van oude kerkgebouwen. Er i
 
 ## Literatuur
 
-*Literatuurlijst bevat vele inconsistenties met MLA*
+*Literatuurlijst bevat vele inconsistenties met zichzelf en met MLA*
 
 ### Sleutelpublicaties
 
