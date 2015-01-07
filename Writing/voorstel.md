@@ -41,6 +41,8 @@ Landelijk is er ook een discussie over herbestemming van oude kerkgebouwen. Er i
 
 ## Literatuur
 
+*Literatuurlijst bevat vele inconsistenties met MLA*
+
 ### Sleutelpublicaties
 
 - Helten, L. Kathedralen für Bürger : die St. Nikolauskirche in Kampen und der Wandel architektonischer Leitbilder städtischer Repräsentation im 14. Jahrhundert. Architektur & Natura Pers, 1994. 
