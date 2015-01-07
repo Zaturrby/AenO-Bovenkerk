@@ -53,9 +53,9 @@ Landelijk is er ook een discussie over herbestemming van oude kerkgebouwen. Er i
 
 - Kuile, E. H. ter. De bouwgeschiedenis van de Sint-Nicolaas of Bovenkerk te Kampen naar de gegevens van de restauratie. Bulletin van de Koninklijke Nederlandse Oudheidkundige Bond, jrg. 4, nr. 3 (herfst 1972).
 
-- Kolman, Chris J. De toren van de Bovenkerk Kampen, bouwhistorische documentatie gevels. Rapport d.d. 5 November 1998.
+- Kolman, Chris J. De toren van de Bovenkerk Kampen, bouwhistorische documentatie gevels. Rapport, d.d. 5 November 1998.
 
-- Kolman, Chris J. De toren van de Bovenkerk (Boventoren) te Kampen, bouwhistorische documentatie van de houtconstructies. Rapport d.d. 4 Juli 1995. 
+- Kolman, Chris J. De toren van de Bovenkerk (Boventoren) te Kampen, bouwhistorische documentatie van de houtconstructies. Rapport, d.d. 4 Juli 1995. 
 
 *Nog te raadplegen - Incomplete annotering*
 - Vermeulen, F. De St. Nicolaas- of Bovenkerk te Kampen: bijdrage tot de geschiedenis van de kerkelijke bouwkunst der Nederlandse Hanzesteden. Oudheidkundig Jaarboek, 3e serie, 4e jrg. (herft 1924).
@@ -87,14 +87,14 @@ Landelijk is er ook een discussie over herbestemming van oude kerkgebouwen. Er i
 > Verhoudingen stad en kerkelijk bestuur
 
 *Nog te raadplegen - Incomplete annotering*
-- …. Nanninga Uitterdijk, … . Onbekende publicatie. …, 1880ish.
+- Nanninga Uitterdijk. Onbekende publicatie. …, 1880ish.
 
 *Nog te raadplegen - Incomplete annotering*
-- …. Helten, L. In der meyster Vorme: de werkovereenkomst tussen het stadsbestuur van Kampen en bouwmeester Rutger van Keulen uit 1369. …, 1991.
+- Helten, L. In der meyster Vorme: de werkovereenkomst tussen het stadsbestuur van Kampen en bouwmeester Rutger van Keulen uit 1369. …, 1991.
 
-- …. Alkema, W. H. Dagboek betreffende de restauratie van de Bovenkerk te Kampen. Dagboek, 1955 - 1973. 
+- Alkema, W. H. Dagboek betreffende de restauratie van de Bovenkerk te Kampen. Dagboek, 1955 - 1973. 
 
-- …. Offringa, R. Restauratie van de St. Nicolaas- of Bovenkerk te Kampen. Document, maart 1966.
+- Offringa, R. Restauratie van de St. Nicolaas- of Bovenkerk te Kampen. Document, maart 1966.
 
 - …. Werkgroep Bouw en Restauratiefonds Bovenkerk. Actiekrant Bovenkerk Kampen. Kampen, 1972. Krant. 
 
